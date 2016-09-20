@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f5f4707dc8510af4a96f172f62cf6729
+timeCreated: 1473291141
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - playerPos: {instanceID: 0}
+  - scoringText: {instanceID: 0}
+  - cheering: {fileID: 8300000, guid: e60f25bd4d8efd5419a733f2cbe36558, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
